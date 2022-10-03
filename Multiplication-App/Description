@@ -1,0 +1,1 @@
+Multiplication-App: Simple app that generates two random numbers and asks the user to submit the correction multiplication. If the user answers correctly score is increased by 1 otherwise decreased by 1.
